@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 250px;
+  height: 100px;
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: white
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.gold {background-color: gold}
